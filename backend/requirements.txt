@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dateutil
+python-dotenv
+qwen-agent[code_interpreter]
+matplotlib
+transformers 
+langchain 
+torch
+langchain-huggingface
+
